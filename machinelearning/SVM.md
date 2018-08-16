@@ -16,4 +16,7 @@
 
 &emsp;我们知道，当我们刻画一个平面为最优平面的时候，我们是有着远和近的概念在这里面的，对应到数学模型的概念上就是距离和间隔，于是，我们需要从距离入手，找到刻画最优平面的方式。首先要介绍的是函数间隔的概念：给定超平面$(w, b)$，以及样本点$(x_i, y_i)$，定义样本点到超平面的函数间隔为：
 
-$\hat{\gamma }_i = y_i(w\cdot x_i + b)$
+$\hat{ \gamma_i } = y_i(w \cdot x_i + b)$
+
+
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
