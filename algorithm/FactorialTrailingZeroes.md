@@ -5,8 +5,6 @@
 > 于是程序的主要部分代码就是：
 
 
-
-
 ```C++
 int trailingZeroes(int n) {
         int res = 0;
